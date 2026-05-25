@@ -18,13 +18,15 @@ body{
 
   display:flex;
   align-items:center;
+  justify-content:space-between;
 
   padding-left:30px;
-
+  padding-right:30px;
   position:sticky;
   top:0;
 
   box-shadow:0 2px 10px rgba(0,0,0,0.1);
+  
 }
 
 /* MAIN LAYOUT */
@@ -197,4 +199,26 @@ th{
   transform:scale(1.15);
 
   color:white;
+}
+.nav-profile{
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+
+.profile-image{
+  width:45px;
+  height:45px;
+
+  border-radius:50%;
+
+  background:#A7D7DB;
+}
+
+.nav-profile h3{
+  font-size:22px;
+}
+
+.nav-profile p{
+  font-size:16px;
 }
