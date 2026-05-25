@@ -4,7 +4,7 @@ This project is a responsive dashboard interface built with HTML and CSS.
 The goal of the project is to practice modern layout techniques such as Flexbox, responsive design, hover effects, cards, tables, and navigation menus.
 
 I used my design for inspo.
-![alt text](<html-css-dashboard/images/main dashboard.svg>)
+<img src="html-css-dashboard/images/main dashboard.svg" alt="Dashboard Screenshot" width="350">
 ## Features
 
 * Navigation bar
